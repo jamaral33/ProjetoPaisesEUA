@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\3MTEC\\Desktop\\UNITED STATES OF AMERICA\\ProjetoUSA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26DC9D6D-6743-4C51-9B6D-ED550863D705}|ProjetoUSA\\ProjetoUSA.csproj|c:\\users\\3mtec\\desktop\\united states of america\\projetousa\\projetousa\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26DC9D6D-6743-4C51-9B6D-ED550863D705}|ProjetoUSA\\ProjetoUSA.csproj|solutionrelative:projetousa\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DC9D6D-6743-4C51-9B6D-ED550863D705}|ProjetoUSA\\ProjetoUSA.csproj|c:\\users\\3mtec\\desktop\\united states of america\\projetousa\\projetousa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DC9D6D-6743-4C51-9B6D-ED550863D705}|ProjetoUSA\\ProjetoUSA.csproj|solutionrelative:projetousa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DC9D6D-6743-4C51-9B6D-ED550863D705}|ProjetoUSA\\ProjetoUSA.csproj|c:\\users\\3mtec\\desktop\\united states of america\\projetousa\\projetousa\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26DC9D6D-6743-4C51-9B6D-ED550863D705}|ProjetoUSA\\ProjetoUSA.csproj|solutionrelative:projetousa\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\UNITED STATES OF AMERICA\\ProjetoUSA\\ProjetoUSA\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ProjetoUSA\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\UNITED STATES OF AMERICA\\ProjetoUSA\\ProjetoUSA\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ProjetoUSA\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAAAAUBAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T14:59:20.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\UNITED STATES OF AMERICA\\ProjetoUSA\\ProjetoUSA\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoUSA\\Program.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\UNITED STATES OF AMERICA\\ProjetoUSA\\ProjetoUSA\\Program.cs",
+              "RelativeToolTip": "ProjetoUSA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T14:55:09.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\UNITED STATES OF AMERICA\\ProjetoUSA\\ProjetoUSA\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjetoUSA\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\UNITED STATES OF AMERICA\\ProjetoUSA\\ProjetoUSA\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProjetoUSA\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T14:55:06.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
