@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\3MTEC\\Desktop\\eua\\ProjetoPaisesEUA\\ProjetoEUA-221e5b3094f956d535b0dd4bca1cea1fb15c16e2\\ProjetoUSA\\ProjetoUSA\\ProjetoUSA.csproj": {}
+    "C:\\Users\\white\\Desktop\\ProjetoEuaGay\\ProjetoEUA-221e5b3094f956d535b0dd4bca1cea1fb15c16e2\\ProjetoUSA\\ProjetoUSA\\ProjetoUSA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\3MTEC\\Desktop\\eua\\ProjetoPaisesEUA\\ProjetoEUA-221e5b3094f956d535b0dd4bca1cea1fb15c16e2\\ProjetoUSA\\ProjetoUSA\\ProjetoUSA.csproj": {
+    "C:\\Users\\white\\Desktop\\ProjetoEuaGay\\ProjetoEUA-221e5b3094f956d535b0dd4bca1cea1fb15c16e2\\ProjetoUSA\\ProjetoUSA\\ProjetoUSA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\3MTEC\\Desktop\\eua\\ProjetoPaisesEUA\\ProjetoEUA-221e5b3094f956d535b0dd4bca1cea1fb15c16e2\\ProjetoUSA\\ProjetoUSA\\ProjetoUSA.csproj",
+        "projectUniqueName": "C:\\Users\\white\\Desktop\\ProjetoEuaGay\\ProjetoEUA-221e5b3094f956d535b0dd4bca1cea1fb15c16e2\\ProjetoUSA\\ProjetoUSA\\ProjetoUSA.csproj",
         "projectName": "ProjetoUSA",
-        "projectPath": "C:\\Users\\3MTEC\\Desktop\\eua\\ProjetoPaisesEUA\\ProjetoEUA-221e5b3094f956d535b0dd4bca1cea1fb15c16e2\\ProjetoUSA\\ProjetoUSA\\ProjetoUSA.csproj",
-        "packagesPath": "C:\\Users\\3MTEC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\3MTEC\\Desktop\\eua\\ProjetoPaisesEUA\\ProjetoEUA-221e5b3094f956d535b0dd4bca1cea1fb15c16e2\\ProjetoUSA\\ProjetoUSA\\obj\\",
+        "projectPath": "C:\\Users\\white\\Desktop\\ProjetoEuaGay\\ProjetoEUA-221e5b3094f956d535b0dd4bca1cea1fb15c16e2\\ProjetoUSA\\ProjetoUSA\\ProjetoUSA.csproj",
+        "packagesPath": "C:\\Users\\white\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\white\\Desktop\\ProjetoEuaGay\\ProjetoEUA-221e5b3094f956d535b0dd4bca1cea1fb15c16e2\\ProjetoUSA\\ProjetoUSA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\3MTEC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\white\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -46,7 +46,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.300"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net9.0": {
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

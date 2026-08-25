@@ -8,6 +8,72 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"]</title>
+    <style>
+            :root 
+            {
+                --azul: #0b3162;
+                --vermelho: #b41943;
+                --cinza: #6e6e6e;
+                --branco: #ffffff;
+            }
+
+            * {
+                box-sizing: border-box;
+            }
+
+            html {
+                scroll-behavior: smooth;
+            }
+
+            body {
+                margin: 0;
+                font-family: Georgia, 'Times New Roman', serif;
+                color: #222;
+            }
+
+            h1, h2, h3 
+            {
+                margin: 0;
+                font-weight: normal;
+            }
+
+            p {
+                margin: 0;
+                line-height: 1.5;
+            }
+
+            section {
+                scroll-margin-top: 46px;
+            }
+
+            /* inicio da navabar */
+
+            .navbar 
+            {
+                background-color: var(--vermelho);
+                display: flex;
+                justify-content: center;
+                gap: 45px;
+                padding: 13px 0;
+                position: sticky;
+                top: 0;
+                z-index: 100;
+            }
+
+                .navbar a 
+                {
+                    color: var(--branco);
+                    text-decoration: none;
+                    font-size: 14px;
+                    font-family: Georgia, serif;
+                    cursor: pointer;
+                }
+
+                    .navbar a:hover 
+                    {
+                        text-decoration: underline;
+                    }
+    </style>
 </head>
 <body>
 
