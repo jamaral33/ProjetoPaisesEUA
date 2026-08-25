@@ -30,8 +30,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -66,7 +70,7 @@
               "RelativeDocumentMoniker": "ProjetoUSA\\Views\\Home\\Privacy.cshtml",
               "ToolTip": "C:\\Users\\white\\Desktop\\ProjetoEuaGay\\ProjetoEUA-221e5b3094f956d535b0dd4bca1cea1fb15c16e2\\ProjetoUSA\\ProjetoUSA\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "ProjetoUSA\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAEsAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-08-25T11:11:19.051Z",
               "EditorCaption": ""
