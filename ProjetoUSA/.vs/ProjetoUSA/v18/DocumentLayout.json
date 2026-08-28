@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\white\\Desktop\\GayEua\\ProjetoUSA\\",
+  "WorkspaceRootPath": "C:\\Users\\white\\Desktop\\EuaGay\\ProjetoUSA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26DC9D6D-6743-4C51-9B6D-ED550863D705}|ProjetoUSA\\ProjetoUSA.csproj|c:\\users\\white\\desktop\\gayeua\\projetousa\\projetousa\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{26DC9D6D-6743-4C51-9B6D-ED550863D705}|ProjetoUSA\\ProjetoUSA.csproj|c:\\users\\white\\desktop\\euagay\\projetousa\\projetousa\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{26DC9D6D-6743-4C51-9B6D-ED550863D705}|ProjetoUSA\\ProjetoUSA.csproj|solutionrelative:projetousa\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26DC9D6D-6743-4C51-9B6D-ED550863D705}|ProjetoUSA\\ProjetoUSA.csproj|c:\\users\\white\\desktop\\gayeua\\projetousa\\projetousa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{26DC9D6D-6743-4C51-9B6D-ED550863D705}|ProjetoUSA\\ProjetoUSA.csproj|c:\\users\\white\\desktop\\euagay\\projetousa\\projetousa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{26DC9D6D-6743-4C51-9B6D-ED550863D705}|ProjetoUSA\\ProjetoUSA.csproj|solutionrelative:projetousa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26DC9D6D-6743-4C51-9B6D-ED550863D705}|ProjetoUSA\\ProjetoUSA.csproj|c:\\users\\white\\desktop\\gayeua\\projetousa\\projetousa\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26DC9D6D-6743-4C51-9B6D-ED550863D705}|ProjetoUSA\\ProjetoUSA.csproj|c:\\users\\white\\desktop\\euagay\\projetousa\\projetousa\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26DC9D6D-6743-4C51-9B6D-ED550863D705}|ProjetoUSA\\ProjetoUSA.csproj|solutionrelative:projetousa\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26DC9D6D-6743-4C51-9B6D-ED550863D705}|ProjetoUSA\\ProjetoUSA.csproj|c:\\users\\white\\desktop\\gayeua\\projetousa\\projetousa\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{26DC9D6D-6743-4C51-9B6D-ED550863D705}|ProjetoUSA\\ProjetoUSA.csproj|c:\\users\\white\\desktop\\euagay\\projetousa\\projetousa\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{26DC9D6D-6743-4C51-9B6D-ED550863D705}|ProjetoUSA\\ProjetoUSA.csproj|solutionrelative:projetousa\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26DC9D6D-6743-4C51-9B6D-ED550863D705}|ProjetoUSA\\ProjetoUSA.csproj|c:\\users\\white\\desktop\\gayeua\\projetousa\\projetousa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26DC9D6D-6743-4C51-9B6D-ED550863D705}|ProjetoUSA\\ProjetoUSA.csproj|c:\\users\\white\\desktop\\euagay\\projetousa\\projetousa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26DC9D6D-6743-4C51-9B6D-ED550863D705}|ProjetoUSA\\ProjetoUSA.csproj|solutionrelative:projetousa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\white\\Desktop\\GayEua\\ProjetoUSA\\ProjetoUSA\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\white\\Desktop\\EuaGay\\ProjetoUSA\\ProjetoUSA\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ProjetoUSA\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\white\\Desktop\\GayEua\\ProjetoUSA\\ProjetoUSA\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\white\\Desktop\\EuaGay\\ProjetoUSA\\ProjetoUSA\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ProjetoUSA\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -48,9 +48,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\white\\Desktop\\GayEua\\ProjetoUSA\\ProjetoUSA\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\white\\Desktop\\EuaGay\\ProjetoUSA\\ProjetoUSA\\appsettings.json",
               "RelativeDocumentMoniker": "ProjetoUSA\\appsettings.json",
-              "ToolTip": "C:\\Users\\white\\Desktop\\GayEua\\ProjetoUSA\\ProjetoUSA\\appsettings.json",
+              "ToolTip": "C:\\Users\\white\\Desktop\\EuaGay\\ProjetoUSA\\ProjetoUSA\\appsettings.json",
               "RelativeToolTip": "ProjetoUSA\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -60,11 +60,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\white\\Desktop\\GayEua\\ProjetoUSA\\ProjetoUSA\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\white\\Desktop\\EuaGay\\ProjetoUSA\\ProjetoUSA\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "ProjetoUSA\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\white\\Desktop\\GayEua\\ProjetoUSA\\ProjetoUSA\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\white\\Desktop\\EuaGay\\ProjetoUSA\\ProjetoUSA\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "ProjetoUSA\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAALABAAAAAAAAAAAAAE8AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAGACAAAAAAAAAAAYwHkCAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-08-25T11:11:19.051Z",
               "EditorCaption": ""
@@ -73,9 +73,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\white\\Desktop\\GayEua\\ProjetoUSA\\ProjetoUSA\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\white\\Desktop\\EuaGay\\ProjetoUSA\\ProjetoUSA\\Program.cs",
               "RelativeDocumentMoniker": "ProjetoUSA\\Program.cs",
-              "ToolTip": "C:\\Users\\white\\Desktop\\GayEua\\ProjetoUSA\\ProjetoUSA\\Program.cs",
+              "ToolTip": "C:\\Users\\white\\Desktop\\EuaGay\\ProjetoUSA\\ProjetoUSA\\Program.cs",
               "RelativeToolTip": "ProjetoUSA\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -85,9 +85,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\white\\Desktop\\GayEua\\ProjetoUSA\\ProjetoUSA\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\white\\Desktop\\EuaGay\\ProjetoUSA\\ProjetoUSA\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ProjetoUSA\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\white\\Desktop\\GayEua\\ProjetoUSA\\ProjetoUSA\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\white\\Desktop\\EuaGay\\ProjetoUSA\\ProjetoUSA\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "ProjetoUSA\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
