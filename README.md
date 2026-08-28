@@ -5,7 +5,7 @@ Carlos Eduardo da Mata Coelho - Programação
 
 João Paulo Amaral de Araujo - Programação e Documentação
 
-João Pedro Pitarello de Abreu Vicente - Documentação e Design
+João Pedro Pitarello de Abreu Vicente - Documentação, Design e Programação 
 
 Thiago Ferreira Silva - Prototipagem
 
