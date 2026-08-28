@@ -1,0 +1,307 @@
+﻿@{
+    ViewData["Title"] = "Estados Unidos da América";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <style>
+                    :root
+                    {
+                        --azul: #0b3162;
+                        --vermelho: #b41943;
+                        --cinza: #6e6e6e;
+                        --branco: #ffffff;
+                    }
+
+        ```
+                * {
+                    box-sizing: border-box;
+                }
+
+                html {
+                    scroll-behavior: smooth;
+                }
+
+                body {
+                    margin: 0;
+                    font-family: Georgia, 'Times New Roman', serif;
+                    color: #222;
+                }
+
+                h1, h2, h3
+                {
+                    margin: 0;
+                    font-weight: normal;
+                }
+
+                p {
+                    margin: 0;
+                    line-height: 1.5;
+                }
+
+                section {
+                    scroll-margin-top: 46px;
+                }
+
+                /* inicio da navabar */
+
+                .navbar
+                {
+                    background-color: var(--vermelho);
+                    display: flex;
+                    justify-content: center;
+                    gap: 45px;
+                    padding: 13px 0;
+                    position: sticky;
+                    top: 0;
+                    z-index: 100;
+                }
+
+                    .navbar a
+                    {
+                        color: var(--branco);
+                        text-decoration: none;
+                        font-size: 14px;
+                        font-family: Georgia, serif;
+                        cursor: pointer;
+                    }
+
+                        .navbar a:hover
+                        {
+                            text-decoration: underline;
+                        }
+    </style>
+    ```
+
+</head>
+<body>
+
+    ```
+    <nav class="navbar">
+        <a href="#historia">História</a>
+        <a href="#folclore">Folclore</a>
+        <a href="#esportes">Esportes</a>
+        <a href="#culinaria">Culinária</a>
+        <a href="#dancas">Danças</a>
+    </nav>
+
+    <!-- colocar imagem monte rushmore -->
+    <section class="banner-titulo alto" id="topo" style="background-image:url('/images/monte-rushmore.jpg');">
+        <div class="conteudo">
+            <h1>Estados Unidos da América</h1>
+            <p>Os Estados Unidos foram inicialmente habitados por diversos povos indígenas, antes da chegada dos europeus. A partir do século XVI, ingleses, espanhóis, franceses e outros povos europeus estabeleceram colônias na região. Em 1776, as Treze Colônias declararam sua independência da Grã-Bretanha, dando origem aos Estados Unidos. Após a Guerra de Independência, o país criou sua Constituição em 1787 e adotou um sistema republicano. Durante o século XIX, os Estados Unidos expandiram seu território para o oeste, entrando em conflitos com povos indígenas. A escravidão cresceu principalmente nos estados do Sul e foi uma das principais causas da Guerra Civil, ocorrida entre 1861 e 1865. A vitória do Norte levou ao fim da escravidão. No final do século XIX e início do XX, o país passou por grande industrialização, urbanização e imigração. Os Estados Unidos participaram das duas Guerras Mundiais e se tornaram uma grande potência após a Segunda Guerra Mundial. Durante a Guerra Fria, rivalizaram com a União Soviética em diferentes áreas. O país também viveu importantes movimentos pelos direitos civis e pela igualdade racial. Atualmente, os Estados Unidos são uma das principais potências econômicas, políticas, militares, científicas e culturais do mundo.</p>
+        </div>
+    </section>
+
+
+    <section id="historia" class="bloco-colonizacao">
+        <!-- colocar imagem colonizadores sla -->
+        <div class="imagem" style="background-image:url('/images/colonizacao.jpg');"></div>
+        <div class="texto">
+            <h2>A Colonização</h2>
+            <p>A colonização dos Estados Unidos começou no século XVII, principalmente com a chegada de ingleses à costa leste da América do Norte. Em 1607, os ingleses fundaram Jamestown, na atual Virgínia, considerada a primeira colônia inglesa permanente na região. Os colonos buscavam terras, oportunidades econômicas e, em alguns casos, liberdade religiosa. Ao longo dos anos, outras colônias foram fundadas, formando as Treze Colônias. A economia era baseada na agricultura, no comércio e, especialmente no Sul, no cultivo de tabaco, arroz e algodão com o uso de mão de obra escravizada africana. A expansão dos colonos provocou conflitos e a perda de territórios dos povos indígenas. As Treze Colônias permaneceram sob domínio britânico até o século XVIII, quando começaram a se revoltar contra impostos e outras medidas impostas pela Inglaterra. Esse processo culminou na Declaração de Independência de 1776, marcando o início dos Estados Unidos como país independente.</p>
+        </div>
+    </section>
+
+    <!-- banner seção esportes -->
+    <section id="esportes" class="banner-titulo alto" style="background-image:url('/images/esportes-basquete.jpg');">
+        <div class="conteudo">
+            <h2>Esportes</h2>
+            <p>Os esportes ocupam um lugar importante na cultura dos Estados Unidos, reunindo milhões de torcedores e movimentando grandes eventos. Entre as modalidades mais populares estão o basquete, o futebol americano e o beisebol, cada uma com suas próprias tradições, ligas profissionais e grandes ídolos.</p>
+        </div>
+    </section>
+
+    <div class="cards-row">
+        <div class="card">
+            <!-- imagem da bola de basquete kfc -->
+            <div class="card-img" style="background-image:url('/images/basquete.jpg');">
+                <h3>Basquete</h3>
+            </div>
+            <div class="card-body">
+                <p>O basquete é um dos esportes mais populares do país. A NBA é considerada uma das principais ligas esportivas do mundo e revelou grandes jogadores que se tornaram referências dentro e fora das quadras.</p>
+            </div>
+        </div>
+
+        <div class="card">
+            <!-- imagem do futebol americano -->
+            <div class="card-img" style="background-image:url('/images/futebol-americano.jpg');">
+                <h3>Futebol Americano</h3>
+            </div>
+            <div class="card-body">
+                <p>O futebol americano é uma verdadeira paixão nacional. A NFL atrai enormes audiências, especialmente durante o Super Bowl, um dos maiores eventos esportivos e televisivos dos Estados Unidos.</p>
+            </div>
+        </div>
+
+        <div class="card">
+            <!-- imagem do baseball -->
+            <div class="card-img" style="background-image:url('/images/beisebol.jpg');">
+                <h3>Beisebol</h3>
+            </div>
+            <div class="card-body">
+                <p>Conhecido como um dos esportes mais tradicionais do país, o beisebol possui uma longa história nos Estados Unidos. A modalidade faz parte da cultura americana há gerações e continua reunindo muitos fãs.</p>
+            </div>
+        </div>
+    </div>
+
+    <!--banner culinária -->
+    <section id="culinaria" class="banner-titulo medio" style="background-image:url('/images/culinaria-hotdogs.jpg');">
+        <div class="conteudo">
+            <h2>Culinária</h2>
+            <p>A culinária dos Estados Unidos foi formada pela influência de diferentes povos e culturas que chegaram ao país ao longo dos séculos. Entre os pratos mais conhecidos estão o hambúrguer, o frango frito, o mac n' cheese e diversas sobremesas que se tornaram símbolos da gastronomia americana.</p>
+        </div>
+    </section>
+
+
+    <div class="comida-row">
+        <h3 class="titulo">Hambúrguer</h3>
+        <!-- imagem hamburger na direita -->
+        <div class="imagem" style="background-image:url('/images/hamburguer.jpg');"></div>
+        <div class="texto"><p>O hambúrguer é um dos pratos mais famosos da culinária americana. Presente em restaurantes, lanchonetes e redes de fast-food, ele pode ser preparado de diversas formas, com diferentes tipos de carne, queijos, molhos e acompanhamentos.</p></div>
+    </div>
+
+
+    <div class="comida-row invertido">
+        <h3 class="titulo">Mac n'Cheese</h3>
+        <!-- imagem do mac com big fucking queijio na esquerda -->
+        <div class="imagem" style="background-image:url('/images/mac-cheese.jpg');"></div>
+        <div class="texto"><p>O mac n' cheese é um prato feito principalmente com macarrão e molho de queijo. Muito popular nos Estados Unidos, ele é conhecido por sua textura cremosa e costuma ser servido como acompanhamento ou prato principal.</p></div>
+    </div>
+
+
+    <div class="comida-row">
+        <h3 class="titulo">Frango Frito</h3>
+        <!-- imagem do balde de frango frito -->
+        <div class="imagem" style="background-image:url('/images/frango-frito.jpg');"></div>
+        <div class="texto"><p>O frango frito é especialmente associado à culinária do sul dos Estados Unidos. Temperado e empanado antes de ser frito, tornou-se um prato muito conhecido e ganhou diversas versões em diferentes regiões do país.</p></div>
+    </div>
+
+
+    <div class="comida-row invertido">
+        <h3 class="titulo">Torta de Maçã</h3>
+        <!--imagem da torta de maçã -->
+        <div class="imagem" style="background-image:url('/images/torta-maca.jpg');"></div>
+        <div class="texto"><p>A torta de maçã é uma das sobremesas mais tradicionais dos Estados Unidos. Feita com uma massa crocante e recheio de maçãs temperadas, ela é frequentemente associada à culinária caseira e às celebrações familiares.</p></div>
+    </div>
+
+
+    <div class="comida-row">
+        <h3 class="titulo">Cheesecake</h3>
+        <!-- imagem da fatia de cheesecake com morangos -->
+        <div class="imagem" style="background-image:url('/images/cheesecake.jpg');"></div>
+        <div class="texto"><p>O cheesecake é uma sobremesa popular preparada com uma base de biscoito e um recheio cremoso à base de queijo. Existem diversas versões, incluindo sabores com frutas, chocolate e caldas variadas.</p></div>
+    </div>
+
+    <!-- Banner secao musicas -->
+    <section id="dancas" class="banner-titulo alto" style="background-image:url('/images/musico-jazz.jpg');">
+        <div class="conteudo">
+            <h2>Música e Dança</h2>
+            <p>Os Estados Unidos tiveram uma grande influência na música mundial. Estilos como jazz, hip hop e country nasceram ou se desenvolveram fortemente no país, refletindo a diversidade cultural e a história de diferentes comunidades americanas.</p>
+        </div>
+    </section>
+
+    <div class="musica-row">
+        <!-- imagem de jazz no figma -->
+        <div class="imagem" style="background-image:url('/images/jazz.jpg');"></div>
+        <div class="texto">
+            <h3>Jazz</h3>
+            <p>O jazz surgiu no início do século XX, especialmente entre comunidades afro-americanas. Marcado pela improvisação e pela mistura de diferentes influências musicais, o estilo se tornou um dos gêneros mais importantes da história da música.</p>
+        </div>
+    </div>
+
+    <div class="musica-row">
+        <!-- imagem de hip hop no figma -->
+        <div class="imagem" style="background-image:url('/images/hiphop.jpg');"></div>
+        <div class="texto">
+            <h3>Hip Hop</h3>
+            <p>O hip hop surgiu na década de 1970, principalmente no Bronx, em Nova York. Mais do que apenas um gênero musical, ele representa um movimento cultural que envolve rap, dança, DJ e diferentes formas de expressão artística.</p>
+        </div>
+    </div>
+
+    <div class="musica-row">
+        <!-- imagem de country no figma -->
+        <div class="imagem" style="background-image:url('/images/country.jpg');"></div>
+        <div class="texto">
+            <h3>Country</h3>
+            <p>A música country tem suas origens nas tradições musicais de comunidades rurais dos Estados Unidos. Suas letras frequentemente abordam temas como a vida no campo, relações pessoais e experiências do cotidiano.</p>
+        </div>
+    </div>
+
+    <div class="musica-row">
+        <!-- imagem do tuff slipknot no figma -->
+        <div class="imagem" style="background-image:url('/images/moshing.jpg');"></div>
+        <div class="texto">
+            <h3>Moshing</h3>
+            <p>O moshing é uma forma de interação do público comum em apresentações de rock e outros estilos mais intensos. A prática ocorre principalmente em grandes rodas formadas durante os shows e faz parte da experiência de muitos festivais e apresentações musicais.</p>
+        </div>
+    </div>
+
+    <!-- Banner folclore -->
+    <section id="folclore" class="banner-titulo medio" style="background-image:url('/images/floresta-folclore.jpg');">
+        <div class="conteudo">
+            <h2>Folclore e lendas</h2>
+            <p>O imaginário popular dos Estados Unidos reúne histórias indígenas, lendas regionais e relatos que se espalharam pela cultura popular. Criaturas misteriosas e fenômenos sem explicação continuam despertando a curiosidade de pessoas em diferentes partes do país.</p>
+        </div>
+    </section>
+
+    <div class="banner-simples" style="background-image:url('/images/bigfoot-floresta.jpg');"></div>
+
+    <!-- Slider -->
+    <div class="folclore-slider" id="slider-folclore">
+        <button class="slider-seta anterior" type="button" aria-label="Lenda anterior">&#10094;</button>
+        <button class="slider-seta proximo" type="button" aria-label="Próxima lenda">&#10095;</button>
+
+        <div class="slider-viewport">
+            <div class="slider-track">
+
+                <!-- Slide 1 -->
+                <div class="slide">
+                    <!-- pé grande -->
+                    <div class="imagem" style="background-image:url('/images/pe-grande.jpg');"></div>
+                    <h3>Pé-Grande</h3>
+                    <p>O Pé-Grande, também conhecido como Bigfoot, é uma das criaturas lendárias mais famosas dos Estados Unidos. Segundo relatos populares, seria um grande ser semelhante a um primata que viveria em florestas isoladas, principalmente na região noroeste do país.</p>
+                </div>
+
+                <!-- Slide 2 -->
+                <div class="slide">
+                    <!-- aliens -->
+                    <div class="imagem" style="background-image:url('/images/alienigenas.jpg');"></div>
+                    <h3>Alienígenas</h3>
+                    <p>Histórias sobre possíveis visitas de seres de outros planetas fazem parte da cultura popular americana há décadas. Relatos de objetos voadores não identificados e supostos encontros misteriosos ajudaram a transformar os alienígenas em um tema recorrente.</p>
+                </div>
+
+                <!-- Slide 3 -->
+                <div class="slide">
+                    <!-- mothman -->
+                    <div class="imagem" style="background-image:url('/images/skinwalker.jpg');"></div>
+                    <h3>Mothman</h3>
+                    <p>O Mothman é uma criatura lendária associada principalmente à cidade de Point Pleasant, na Virgínia Ocidental. Descrito em relatos populares como uma figura misteriosa com grandes asas e olhos brilhantes, tornou-se uma famosa lenda urbana americana.</p>
+                </div>
+
+                <!-- Slide 4 -->
+                <div class="slide">
+                    <!-- chupacabra -->
+                    <div class="imagem" style="background-image:url('/images/wendigo.jpg');"></div>
+                    <h3>Chupacabra</h3>
+                    <p>O Chupacabra é uma criatura do folclore popular em diferentes regiões das Américas. A lenda ganhou grande destaque nos Estados Unidos, especialmente em áreas do sul, onde surgiram diversos relatos sobre um animal misterioso que atacaria rebanhos.</p>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="slider-dots"></div>
+    </div>
+
+    <!-- footerzão -->
+    <footer class="footer">
+        @@2026 - Todos os direitos reservados
+    </footer>
+    ```
+
+</body>
+</html>
