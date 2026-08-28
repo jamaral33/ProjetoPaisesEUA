@@ -19,7 +19,6 @@
                         --branco: #ffffff;
                     }
 
-        ```
                 * {
                     box-sizing: border-box;
                 }
@@ -420,12 +419,53 @@
                 padding: 12px 0;
             }
     </style>
-    ```
+
 
 </head>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const slider = document.getElementById('slider-folclore');
+        const track = slider.querySelector('.slider-track');
+        const slides = Array.from(track.children);
+        const btnAnterior = slider.querySelector('.anterior');
+        const btnProximo = slider.querySelector('.proximo');
+        const dotsContainer = slider.querySelector('.slider-dots');
+        let indiceAtual = 0;
+
+        // cria os dots dinamicamente, um para cada slide
+        slides.forEach((_, i) => {
+            const dot = document.createElement('button');
+            dot.type = 'button';
+            dot.classList.add('dot');
+            dot.setAttribute('aria-label', 'Ir para lenda ' + (i + 1));
+            if (i === 0) dot.classList.add('ativo');
+            dot.addEventListener('click', () => irPara(i));
+            dotsContainer.appendChild(dot);
+        });
+
+        const dots = Array.from(dotsContainer.children);
+
+        function atualizarSlider() {
+            track.style.transform = `translateX(-${indiceAtual * 100}%)`;
+            dots.forEach((dot, i) => dot.classList.toggle('ativo', i === indiceAtual));
+        }
+
+        function irPara(indice) {
+            indiceAtual = (indice + slides.length) % slides.length;
+            atualizarSlider();
+        }
+
+        btnProximo.addEventListener('click', () => irPara(indiceAtual + 1));
+        btnAnterior.addEventListener('click', () => irPara(indiceAtual - 1));
+
+        atualizarSlider(); // estado inicial
+    });
+</script>
+
+
 <body>
 
-    ```
     <nav class="navbar">
         <a href="#historia">História</a>
         <a href="#folclore">Folclore</a>
@@ -644,7 +684,6 @@
     <footer class="footer">
         @@2026 - Todos os direitos reservados
     </footer>
-    ```
 
 </body>
 </html>
