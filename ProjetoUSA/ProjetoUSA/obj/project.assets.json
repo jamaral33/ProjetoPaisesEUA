@@ -8,23 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\white\\.nuget\\packages\\": {},
+    "C:\\Users\\Lenovo\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\white\\Desktop\\EuaGay\\ProjetoUSA\\ProjetoUSA\\ProjetoUSA.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\ProjetoPaisesEUA\\ProjetoPaisesEUA\\ProjetoUSA\\ProjetoUSA\\ProjetoUSA.csproj",
       "projectName": "ProjetoUSA",
-      "projectPath": "C:\\Users\\white\\Desktop\\EuaGay\\ProjetoUSA\\ProjetoUSA\\ProjetoUSA.csproj",
-      "packagesPath": "C:\\Users\\white\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\white\\Desktop\\EuaGay\\ProjetoUSA\\ProjetoUSA\\obj\\",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\ProjetoPaisesEUA\\ProjetoPaisesEUA\\ProjetoUSA\\ProjetoUSA\\ProjetoUSA.csproj",
+      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lenovo\\Desktop\\ProjetoPaisesEUA\\ProjetoPaisesEUA\\ProjetoUSA\\ProjetoUSA\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\white\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

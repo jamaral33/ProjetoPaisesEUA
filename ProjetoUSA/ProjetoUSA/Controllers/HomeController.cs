@@ -18,7 +18,7 @@ namespace ProjetoUSA.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Site()
         {
             return View();
         }
